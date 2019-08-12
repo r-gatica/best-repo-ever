@@ -5,3 +5,5 @@ Esto es una prueba donde tengo que agregar algo para validar que funciona correc
 Esto es una prueba hecha desde desktop
 
 Debe de funcionar correctamente la edicion
+
+Esto es una prueba desde Visual Studio Code
